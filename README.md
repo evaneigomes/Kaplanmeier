@@ -117,10 +117,10 @@ pip install pandas matplotlib lifelines
 
 ## 10. Desenvolvido por
 
-* **Autor:** *\[Seu Nome]*
+* **Autor:** *\[Evanei Gomes dos Santos e Caroline Nazare Dos Santos Chucre Kappel]*
 * **Projeto:** Análise de Sobrevivência com Kaplan-Meier
-* **Data de Conclusão:** *\[Data]*
+* **Data de Conclusão:** *\[26/09/2025]*
 
 ---
 
-Quer que eu inclua no README um **exemplo do gráfico gerado** (inserindo um *screenshot* ou instruções para reprodução no Colab)?
+
