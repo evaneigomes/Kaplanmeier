@@ -1,5 +1,3 @@
-Aqui está um **README** bem estruturado para o código do arquivo **Kaplan-Meier.ipynb**, inspirado no estilo do exemplo do MVP dos vinhos que você compartilhou:
-
 ---
 
 # Análise de Sobrevivência – Kaplan-Meier por Tipo de Organização
