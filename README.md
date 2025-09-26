@@ -1,7 +1,7 @@
 ## Análise de Sobrevivência – Kaplan-Meier por Tipo de Organização
 
 **Discente:** *\[Evanei Gomes dos Santos e Caroline Nazare Dos Santos Chucre Kappel]*
-**Data:** *\[Data do projeto]*
+**Data:** *\[26/09/2025]*
 
 ---
 
