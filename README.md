@@ -2,7 +2,7 @@
 
 # Análise de Sobrevivência – Kaplan-Meier por Tipo de Organização
 
-**Discente:** *\[Seu Nome ou da Equipe]*
+**Discente:** *\[Evanei Gomes dos Santos e Caroline Nazare Dos Santos Chucre Kappel]*
 **Data:** *\[Data do projeto]*
 
 ---
